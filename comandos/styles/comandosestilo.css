@@ -1,0 +1,36 @@
+body {
+    margin:0;
+    padding:0;
+    color:#000;
+    background:#e6e6fa;
+}
+#geral {
+    width:960px;
+    margin:0 auto;
+    background:#e6e6fa;
+}
+#cabecalho {
+    height: 200px;
+    text-align: center;
+    background-color: yellow;
+}
+# conteudo-1 {
+    background:#e6e6fa;
+}
+
+#conteudo-1 {
+    float:left;
+    width:240px;
+    height: 200px;
+    background:#e6e6fa;
+}
+#conteudo-2 {
+    float:right;
+    height: 200px;
+    width:720px;
+    background-color: #e6e6fa;
+}
+h1 {
+  font-size: 50px;
+}
+ul {list-style-type: none;}
